@@ -2,7 +2,7 @@
 
 Componente:
 Logica:
-1x Arduino Nano sau Uno (compatibil)
+1x Arduino Uno
 Senzori:
 1x Senzor temperatura LM35
 Interfata:
